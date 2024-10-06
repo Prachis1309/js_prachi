@@ -35,3 +35,10 @@ const myFunction = function(){
 console.log(typeof heros);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+// *********************************************
+
+//stack(primitve ),heap(non-primitive)
+
+//stack gives copies
+// heap gives refernce and change in the original variables
